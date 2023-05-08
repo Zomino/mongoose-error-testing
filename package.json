@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-error-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zomino/mongoose-error-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zomino/mongoose-error-testing/issues"
+  },
+  "homepage": "https://github.com/Zomino/mongoose-error-testing#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  },
+  "type": "module"
+}
